@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning javascript and python 
-- 👯 I’m looking for oppotunities to collaborate with other content creators. 
+- 👯 I’m looking for oppotunities to collaborate with other developers. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games on my own free time and collect cards.
 ### Connect with me:
