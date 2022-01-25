@@ -5,7 +5,6 @@
 - 👯 I’m looking for oppotunities to collaborate with other content creators. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games on my own free time and collect cards.
-
 ### Connect with me:
 
 [<img align="left" alt="lemmyMwaura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,6 +32,7 @@
 <br />
 <br />
 ---
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LemmyMwaura&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/lemmymwaura8
 [linkedin]: https://#
