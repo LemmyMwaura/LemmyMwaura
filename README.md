@@ -31,8 +31,13 @@
 
 <br />
 <br />
+
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LemmyMwaura&show_icons=true&hide_border=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lemmymwaura&show_icons=true&theme=radical">
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemmymwaura&layout=compact">
+
+<!-- <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lemmymwaura"> -->
 
 [twitter]: https://twitter.com/lemmymwaura8
 [linkedin]: https://#
