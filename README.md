@@ -8,8 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="lemmyMwaura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lemmyMwaura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="lemmyMwaura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
+[<img align="left" alt="lemmyMwaura | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="lemmyMwaura | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 [<img align="left" alt="lemmyMwaura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -33,13 +33,20 @@
 <br />
 
 ---
+
+<div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lemmymwaura&show_icons=true&theme=radical">
+<img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=lemmymwaura&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 
+<br><br><br><br><br><br><br><br><br>
+<div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemmymwaura&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lemmymwaura">
+</div>
 
-<!-- <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lemmymwaura"> -->
 
-[twitter]: https://twitter.com/lemmymwaura8
+[twitter]: https://#
 [linkedin]: https://#
 [home]: https://#
 [codepen]: https://codepen.io/lemmymwaura
