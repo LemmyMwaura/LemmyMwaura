@@ -12,9 +12,16 @@
 [<img align="left" alt="lemmyMwaura | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 [<img align="left" alt="lemmyMwaura | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 [<img align="left" alt="lemmyMwaura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lemmyMwaura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 <br />
+
+### Let's Vibe:
+[<img align="left" alt="lemmyMwaura | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+<!-- [<img align="left" alt="lemmyMwaura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
+
+<br>
 
 ### Languages and Tools:
 
@@ -58,3 +65,6 @@
 [home]: https://#
 [codepen]: https://codepen.io/lemmymwaura
 [codewars]: https://www.codewars.com/users/LemmyMwaura
+[spotify]:https://open.spotify.com/user/1y6fetq0f8qp3s94e5yfrerg5?si=2d08857358cc4862
+[discord]: https://www.codewars.com/users/LemmyMwaura
+[gmail]: https://www.lemmymwaurabusiness@gmail.com
