@@ -1,10 +1,11 @@
-## Hi there, I'm Lemmy Mwaura, a Full-Stack Developer from Nairobi Kenya👋 
+## Hi there, I'm Lemmy Mwaura👋 
 
+- 🌱 Hi I’m lemmy Mwaura an aspiring full-stack developer from Nairobi, Kenya. I'm very very passionate about coding and spend most of my time finding new ways to tackle different problems with code. I also enjoy building outstanding projects and working with different people.
 
-- 🌱 I’m currently learning javascript and python 
-- 👯 I’m looking for oppotunities to collaborate with other developers. 
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games on my own free time and collect cards.
+- 👯 I’m looking for oppotunities to collaborate with other open-minded developers. 
+- 🥅 My 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I have a strong background in design. Adobe Illustrator & Photoshop. I also love music..but don't we all.
+- 🪢Favourite Quote: "I do wanna make everything good but i also just.. wanna make it, you know..."
 ### Connect with me:
 
 [<img align="left" alt="lemmyMwaura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -41,8 +42,10 @@
 </div>
 
 <br><br><br><br><br><br><br><br><br>
+
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemmymwaura&layout=compact">
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lemmymwaura">
 </div>
 
