@@ -12,7 +12,8 @@
 [<img align="left" alt="lemmyMwaura | Codepen" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 [<img align="left" alt="lemmyMwaura | Codewars" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 [<img align="left" alt="lemmyMwaura | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lemmyMwaura | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="lemmyMwaura | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -55,6 +56,7 @@
 [home]: https://#
 [codepen]: https://codepen.io/lemmymwaura
 [codewars]: https://www.codewars.com/users/LemmyMwaura
+[CSSBattle]: https://cssbattle.dev/player/lemmy
 [spotify]:https://open.spotify.com/user/1y6fetq0f8qp3s94e5yfrerg5?si=2d08857358cc4862
 [discord]: https://www.codewars.com/users/LemmyMwaura
 [gmail]: https://www.lemmymwaurabusiness@gmail.com
