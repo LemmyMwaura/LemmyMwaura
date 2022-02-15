@@ -4,8 +4,8 @@
 
 - 👯 I’m looking for oppotunities to collaborate with other open-minded developers. 
 - 🥅 My 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I have a strong background in design. Adobe Illustrator & Photoshop. I also love music..but don't we all.
-- 🪢Favourite Quote: "I do wanna make everything good but i also just.. wanna make it, you know..."
+- ⚡ Fun fact: I have a strong background in design (Adobe Illustrator & Photoshop). I also love music..but don't we all.
+<!-- - 🪢Favourite Quote: "I do wanna make everything good but i also just.. wanna make it," -->
 ### Connect with me:
 
 [<img align="left" alt="lemmyMwaura | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
