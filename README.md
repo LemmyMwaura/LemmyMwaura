@@ -1,11 +1,7 @@
 ## Hi there, I'm Lemmy Mwaura👋 
 
-- 🌱 Hi I’m lemmy Mwaura an aspiring full-stack developer from Nairobi, Kenya. I'm very very passionate about coding and spend most of my time finding new ways to tackle different problems with code. I also enjoy building outstanding projects and working with different people.
+- 🌱 Hi I’m lemmy Mwaura a full-stack developer from Nairobi, Kenya.
 
-- 👯 I’m looking for oppotunities to collaborate with other open-minded developers. 
-- 🥅 My 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I have a strong background in design (Adobe Illustrator & Photoshop). I also love music..but don't we all.
-<!-- - 🪢Favourite Quote: "I do wanna make everything good but i also just.. wanna make it," -->
 ### Connect with me:
 
 [<img align="left" alt="lemmyMwaura | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -13,13 +9,6 @@
 [<img align="left" alt="lemmyMwaura | Codewars" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 [<img align="left" alt="lemmyMwaura | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="lemmyMwaura | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-
-<br />
-
-### Let's Vibe:
-[<img align="left" alt="lemmyMwaura | Codewars" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-<!-- [<img align="left" alt="lemmyMwaura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
 
 <br>
 
@@ -49,7 +38,7 @@
 
 <br><br><br><br><br><br><br><br><br>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lemmy's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lemmymwaura&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lemmy's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lemmymwaura&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 [twitter]: https://#
 [linkedin]: https://#
