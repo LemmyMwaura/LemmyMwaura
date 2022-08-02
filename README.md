@@ -23,31 +23,29 @@
 ### Languages and Tools:
 
 <div class="icons">
-  <img alt="Visual Studio Code" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img alt="HTML5" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="HTML5" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="Sass" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img alt="Bootstrap" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Tailwind" width=26px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  />
-  <img alt="JavaScript" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="Typescript" width=26px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="Angular" width=32px class="angular" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-  <img alt="React" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="GraphQL" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-  <img alt="Node.js" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Python" width=26px  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Flask" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-  <img alt="Django" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img alt="MySQL" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-  <img alt="PostgresQl" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="SQLAlchemy" width=40px class="sqlalchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
-  <img alt="jest" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-  <img alt="Firebase" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  <img alt="Go-lang" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-  <img alt="Git" width=26px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="GitHub" width=26px src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
-  <img alt="GitHub" width=26px src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
+  <img alt="Visual Studio Code" width=26px  style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="HTML5" width=26px style="padding-right:30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="Sass" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img alt="Bootstrap" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="Tailwind" width=26px style="padding-right:30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  />
+  <img alt="JavaScript" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Typescript" width=26px style="padding-right:30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="Angular" width=32px style="padding-right:30px" class="angular" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+  <img alt="React" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="GraphQL" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+  <img alt="Node.js" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Python" width=26px style="padding-right:30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Flask" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+  <img alt="Django" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img alt="MySQL" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+  <img alt="PostgresQl" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="jest" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+  <img alt="Firebase" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img alt="Go-lang" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  <img alt="Git" width=26px style="padding-right:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" width=26px style="padding-right:30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
+  <img alt="GitHub" width=26px style="padding-right:30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
 </div>
 
 ---
@@ -57,52 +55,6 @@
 
   <img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=lemmymwaura&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 </div>
-
-<div class="graph">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lemmy's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lemmymwaura&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
-</div>
-
-<!-- Styles -->
-<style>
-  .icons{
-    display: grid;
-    align-items: center;
-    gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
-  }
-  .icons img{
-    width: 26px;
-  }
-  .icons .angular{
-    width: 32px;
-  }
-   .icons .sqlalchemy{
-    width: 40px;
-   }
-  .wrapper {
-    display : flex;
-    align-items : center;
-    justify-content : space-between;
-    margin-bottom : 20px;
-  }
-  .graph {
-    display : flex;
-    align-items : center;
-    justify-content : center;
-    width : 97%;
-  }
-  @media (max-width: 468px) {
-    .wrapper {
-      flex-direction : column;
-      gap : 10px;
-      width : 100%;
-    }
-    .wrapper img {
-      width : 90%;
-    }
-  }
-</style>
 
 [website]:https://lemmymwaura.netlify.app/
 [twitter]:https://twitter.com/lemmymwaura8/
