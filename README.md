@@ -20,7 +20,7 @@
 [![website](./img/gmail-dark.svg)](mailto:lemmymwauracodes@gmail.com#gh-dark-mode-only)
 
 ### Languages and Tools:
-
+<div align="left">
   <img  alt="Visual Studio Code" width=26px  style="padding:0px 30px 30px 0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img  alt="HTML5" width=26px style="padding:0px 30px 30px 0"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img  alt="CSS3" width=26px style="padding:0px 30px 30px 0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -44,6 +44,7 @@
   <img  alt="Git" width=26px style="padding:0px 30px 30px 0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img  alt="GitHub" width=26px style="padding:0px 30px 30px 0" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
   <img  alt="GitHub" width=26px style="padding:0px 30px 30px 0" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
+</div>
 
 <div class="wrapper">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lemmymwaura&show_icons=true&theme=radical">
