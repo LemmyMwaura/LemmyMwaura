@@ -4,13 +4,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lemmyMwaura | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lemmyMwaura | Codepen" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="lemmyMwaura | Codewars" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
-[<img align="left" alt="lemmyMwaura | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lemmyMwaura | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[![website](./img/globe-light.svg)](https://lemmymwaura.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://lemmymwaura.netlify.app/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/medium-light.svg)](https://medium.com/@Lemmymwaura8#gh-light-mode-only)
+[![website](./img/medium-dark.svg)](https://medium.com/@Lemmymwaura8#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/lemmymwaura8#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/lemmymwaura8#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lemmymwaura/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lemmymwaura/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/gmail-light.svg)](mailto:lemmymwauracodes@gmail.com#gh-light-mode-only)
+[![website](./img/gmail-dark.svg)](mailto:lemmymwauracodes@gmail.com#gh-dark-mode-only)
 
-<br>
 
 ### Languages and Tools:
 
@@ -95,12 +103,12 @@
   }
 </style>
 
-[twitter]: https://#
-[linkedin]: https://#
-[home]: https://#
-[codepen]: https://codepen.io/lemmymwaura
-[codewars]: https://www.codewars.com/users/LemmyMwaura
-[cssbattle]: https://cssbattle.dev/player/lemmy
-[spotify]: https://open.spotify.com/user/1y6fetq0f8qp3s94e5yfrerg5?si=2d08857358cc4862
-[discord]: https://www.codewars.com/users/LemmyMwaura
-[gmail]: https://www.lemmymwauracodes@gmail.com
+[website]:https://lemmymwaura.netlify.app/
+[twitter]:https://twitter.com/lemmymwaura8/
+[linkedin]:https://www.linkedin.com/in/lemmymwaura/
+[codepen]:https://codepen.io/lemmymwaura
+[codewars]:https://www.codewars.com/users/LemmyMwaura
+[cssbattle]:https://cssbattle.dev/player/lemmy
+[spotify]:https://open.spotify.com/user/1y6fetq0f8qp3s94e5yfrerg5?si=2d08857358cc4862
+[discord]:https://www.codewars.com/users/LemmyMwaura
+[gmail]:https://www.lemmymwauracodes@gmail.com
