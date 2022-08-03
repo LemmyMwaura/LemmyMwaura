@@ -1,6 +1,8 @@
-## Hi there, I'm Lemmy Mwaura👋
+## Hi there, I'm Lemmy Mwaura 👋
 
-- 🌱 Hi I’m lemmy Mwaura a full-stack developer from Nairobi, Kenya.
+-  I'm a full-stack developer dedicated to building beautiful, responsive websites and applications.
+-  I'm passionate about Javascript, Go and Python and currently building around this languages and their respective ecosystems. 
+-  The goal is to always build performant projects, improve my understanding on memory, and ultimately craft amazing software.
 
 ### Connect with me:
 
