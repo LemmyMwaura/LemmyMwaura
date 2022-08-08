@@ -1,8 +1,8 @@
 ## Hi there, I'm Lemmy Mwaura 👋
 
 -  I'm a full-stack developer dedicated to building beautiful, responsive websites and applications.
--  I'm passionate about Javascript, Go and Python and currently building around this languages and their respective ecosystems. 
--  The goal is to always build performant projects, improve my understanding on memory, and ultimately craft amazing software.
+-  I'm passionate about Javascript, Go and Python and currently building around these languages and their respective ecosystems. 
+-  The goal is to always build performant projects, improve my understanding of memory, and ultimately craft amazing software.
 
 ### Connect with me:
 
