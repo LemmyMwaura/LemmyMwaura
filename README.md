@@ -1,9 +1,7 @@
-## Hi there, I'm Lemmy Mwaura 👋
-
--  I'm a full-stack developer dedicated to building beautiful, responsive websites and applications.
--  I'm passionate about Javascript, Go and Python and currently building around this languages and their respective ecosystems. 
--  The goal is to always build performant projects, improve my understanding on memory, and ultimately craft amazing software.
-
+## Hi there, I'm Lemmy 👋
+-  Javascript, Go and Python are my favourite langs and i'm currently building around this languages and their respective ecosystems. 
+-  The goal is to always build performant projects and ultimately craft amazing software.
+<!-- 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://lemmymwaura.netlify.app/#gh-light-mode-only)
@@ -52,7 +50,7 @@
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lemmymwaura&show_icons=true&theme=radical">
 
   <img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=lemmymwaura&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
-</div>
+</div> -->
 
 [website]: https://lemmymwaura.netlify.app/
 [twitter]: https://twitter.com/lemmymwaura8/
