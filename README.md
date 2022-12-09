@@ -1,4 +1,4 @@
-## Hi there, I'm Lemmy 👋
+### Hi there, I'm Lemmy 👋
 -  Js/Ts, Go and Python are my favourite langs and i'm currently building around them and their respective ecosystems.
 -  The goal is to always build performant projects and ultimately craft amazing software.
 <!-- 
