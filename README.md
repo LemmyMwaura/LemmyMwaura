@@ -1,5 +1,5 @@
 ## Hi there, I'm Lemmy 👋
--  Javascript, Go and Python are my favourite langs and i'm currently building around this languages and their respective ecosystems. 
+-  Js/Ts, Go and Python are my favourite langs and i'm currently building around them and their respective ecosystems.
 -  The goal is to always build performant projects and ultimately craft amazing software.
 <!-- 
 ### Connect with me:
